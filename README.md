@@ -3,3 +3,4 @@
 ## Ola bem vindo ao livro de receitas :wave:
 
 - Bolo de Cenoura
+- Pavê
